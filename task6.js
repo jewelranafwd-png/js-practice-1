@@ -4,7 +4,7 @@ if (year%4==0) {
 }else{
     console.log(year+' isnt a leapyear');
 }
-const year2=2026;
+const year2=2028;
 if (year2%4==0){
     console.log(year2 + ' is a leap year');
 }else{
